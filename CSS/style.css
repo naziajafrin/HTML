@@ -1,0 +1,9 @@
+.container{
+  margin: auto;
+  text-align: center;
+}
+.box{
+  border: 1px solid lightcoral;
+  margin-top: 50px 100px;
+  text-align: center;
+}
